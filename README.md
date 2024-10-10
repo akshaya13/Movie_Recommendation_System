@@ -6,6 +6,8 @@ This project implements a content-based movie recommendation system utilizing th
 ### Dataset
 Source: TMDB 5000 Dataset (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
+Version 1: Stemming + Bag of Words + Similarity Search
+Version 2: Lemmatization + TFIDF + Similarity Search
 
 ### Steps
 * Data Preprocessing: Clean and prepare the dataset for analysis.
