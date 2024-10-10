@@ -1,12 +1,13 @@
-Movie Recommendation System - Content-Based Recommendation System
-Overview
+# Movie Recommendation System - Content-Based Recommendation System
+### Overview
+
 This project implements a content-based movie recommendation system utilizing the TMDB 5000 dataset from Kaggle. The system analyzes various movie attributes to generate personalized recommendations based on user input.
 
-Dataset
+### Dataset
 Source: TMDB 5000 Dataset (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 
-Steps
+### Steps
 * Data Preprocessing: Clean and prepare the dataset for analysis.
 * Exploratory Data Analysis (EDA): Analyze the dataset to understand its structure and key features.
 * Feature Engineering: Extract meaningful features from the dataset to enhance recommendation accuracy.
